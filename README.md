@@ -36,10 +36,10 @@ CommonAncestorFinder is a command-line tool designed to navigate the file system
     ```
 
 4. **Expected Output:**
-```
-The common parent of a and b is: root
-The common parent of c and d is: a
-```
+    ```sh
+    The common parent of a and b is: root
+    The common parent of c and d is: a
+    ```
 
 ## Installation
 
