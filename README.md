@@ -35,6 +35,12 @@ CommonAncestorFinder is a command-line tool designed to navigate the file system
     console.log(`The common parent of c and d is: ${findParent(root, c, d).name}`); // -> a
     ```
 
+4. **Expected Output:**
+```
+The common parent of a and b is: root
+The common parent of c and d is: a
+```
+
 ## Installation
 
 To use CommonAncestorFinder, ensure you have [Node.js](https://nodejs.org/) installed.
