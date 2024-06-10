@@ -12,13 +12,13 @@ CommonAncestorFinder is a command-line tool designed to navigate the file system
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/PathCommonParent.git
-    cd PathCommonParent
+    git clone https://github.com/MatiasCarabella/CommonAncestorFinder.git
+    cd CommonAncestorFinder
     ```
 
 2. **Run the tool:**
     ```sh
-    node filesystem.js
+    node CommonAncestorFinder.js
     ```
 
 3. **Example:**
@@ -37,11 +37,7 @@ CommonAncestorFinder is a command-line tool designed to navigate the file system
 
 ## Installation
 
-To use PathCommonParent, ensure you have [Node.js](https://nodejs.org/) installed.
-
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
+To use CommonAncestorFinder, ensure you have [Node.js](https://nodejs.org/) installed.
 
 ## License
 
